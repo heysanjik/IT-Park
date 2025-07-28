@@ -266,4 +266,3 @@ export default function Course() {
     </div>
   );
 }
-// 780x470
